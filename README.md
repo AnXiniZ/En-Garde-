@@ -27,11 +27,11 @@ Moves:
 8. Move "_>"
 
 Icons and their meanings:
-X means u hit, and only hits if adjacent 
-B means u block X
-_ means wasting an action (do nothign)
-- means charging an attack for X
-< means move back
->means move forwards, if its attached with an X, you move forwards and push them back by 1
-^ = > * 3
-$ means knock them back by 1 if adjacent, and any dashes exists during the parry
+- X means u hit, and only hits if adjacent 
+- B means u block X
+- \_ means wasting an action (do nothign)
+- \- means charging an attack for X
+- < means move back
+- > means move forwards, if its attached with an X, you move forwards and push them back by 1
+- ^ = > * 3
+- $ means knock them back by 1 if adjacent, and any dashes exists during the parry
