@@ -32,6 +32,6 @@ Icons and their meanings:
 - \_ means wasting an action (do nothign)
 - \- means charging an attack for X
 - < means move back
-- > means move forwards, if its attached with an X, you move forwards and push them back by 1
+- \> means move forwards, if its attached with an X, you move forwards and push them back by 1
 - ^ = > * 3
 - $ means knock them back by 1 if adjacent, and any dashes exists during the parry
