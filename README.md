@@ -29,7 +29,7 @@ Moves:
 Icons and their meanings:
 - X means u hit, and only hits if adjacent 
 - B means u block X
-- \_ means wasting an action (do nothign)
+- \_  means wasting an action (do nothing)
 - \- means charging an attack for X
 - < means move back
 - \> means move forwards, if its attached with an X, you move forwards and push them back by 1
